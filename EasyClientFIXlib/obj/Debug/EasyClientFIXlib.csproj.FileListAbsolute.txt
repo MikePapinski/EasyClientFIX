@@ -1,0 +1,5 @@
+C:\Users\mppap\Desktop\fixnew\EasyClientFIX\EasyClientFIXlib\obj\Debug\EasyClientFIXlib.csproj.CoreCompileInputs.cache
+C:\Users\mppap\Desktop\fixnew\EasyClientFIX\EasyClientFIXlib\bin\Debug\EasyClientFIXlib.dll
+C:\Users\mppap\Desktop\fixnew\EasyClientFIX\EasyClientFIXlib\bin\Debug\EasyClientFIXlib.pdb
+C:\Users\mppap\Desktop\fixnew\EasyClientFIX\EasyClientFIXlib\obj\Debug\EasyClientFIXlib.dll
+C:\Users\mppap\Desktop\fixnew\EasyClientFIX\EasyClientFIXlib\obj\Debug\EasyClientFIXlib.pdb
