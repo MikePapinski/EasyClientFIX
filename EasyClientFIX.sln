@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyClientFIXlib", "EasyClientFIXlib\EasyClientFIXlib.csproj", "{7D703876-CD99-40C1-9799-59231C866868}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyClientFIXlib", "EasyClientFIXlib\EasyClientFIXlib.csproj", "{C96FBDC2-C59F-422B-9F32-2C53E419D023}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7D703876-CD99-40C1-9799-59231C866868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D703876-CD99-40C1-9799-59231C866868}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D703876-CD99-40C1-9799-59231C866868}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D703876-CD99-40C1-9799-59231C866868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96FBDC2-C59F-422B-9F32-2C53E419D023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96FBDC2-C59F-422B-9F32-2C53E419D023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96FBDC2-C59F-422B-9F32-2C53E419D023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96FBDC2-C59F-422B-9F32-2C53E419D023}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {459FAF7E-DF84-4EFA-8495-C431950B9E20}
+		SolutionGuid = {0E100F0C-8CD3-4573-BD42-76066D011476}
 	EndGlobalSection
 EndGlobal

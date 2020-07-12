@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MRSMDyAVq/jfkfbe8DKGxAli2YDqqNtNmVxnuLhGq+BZjxqhDNWCJ/ZAVdh5z1V+b5pZ6oQ4lG+x5OEbl3n2bQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mppap\\source\\repos\\EasyClientFIX\\EasyClientFIXlib\\EasyClientFIXlib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mppap\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mppap\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

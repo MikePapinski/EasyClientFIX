@@ -1,0 +1,8 @@
+C:\Users\mppap\source\repos\EasyClientFIX\EasyClientFIXlib\bin\Debug\netstandard2.0\EasyClientFIXlib.deps.json
+C:\Users\mppap\source\repos\EasyClientFIX\EasyClientFIXlib\bin\Debug\netstandard2.0\EasyClientFIXlib.dll
+C:\Users\mppap\source\repos\EasyClientFIX\EasyClientFIXlib\bin\Debug\netstandard2.0\EasyClientFIXlib.pdb
+C:\Users\mppap\source\repos\EasyClientFIX\EasyClientFIXlib\obj\Debug\netstandard2.0\EasyClientFIXlib.AssemblyInfoInputs.cache
+C:\Users\mppap\source\repos\EasyClientFIX\EasyClientFIXlib\obj\Debug\netstandard2.0\EasyClientFIXlib.AssemblyInfo.cs
+C:\Users\mppap\source\repos\EasyClientFIX\EasyClientFIXlib\obj\Debug\netstandard2.0\EasyClientFIXlib.csproj.CoreCompileInputs.cache
+C:\Users\mppap\source\repos\EasyClientFIX\EasyClientFIXlib\obj\Debug\netstandard2.0\EasyClientFIXlib.dll
+C:\Users\mppap\source\repos\EasyClientFIX\EasyClientFIXlib\obj\Debug\netstandard2.0\EasyClientFIXlib.pdb
