@@ -13,7 +13,7 @@
     <PackageIcon>my_face_medium.png</PackageIcon>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Product>EasyClientFIX</Product>
-    <Version>1.0.1001</Version>
+    <Version>1.0.1003</Version>
   </PropertyGroup>
 
   <ItemGroup>
