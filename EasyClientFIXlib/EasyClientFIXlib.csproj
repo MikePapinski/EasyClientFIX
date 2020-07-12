@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>MikePapinski</Authors>
     <Company>FXbox</Company>
-    <PackageId>EasyClientFIXlib_MikePapinski</PackageId>
+    <PackageId>EasyClientFIX</PackageId>
     <Description>Simple implementation of FIX protocol client session without any external libraries. All based on TCP. Feel free to contribute</Description>
     <Copyright />
     <RepositoryUrl>https://github.com/MikePapinski/EasyClientFIX</RepositoryUrl>
@@ -13,11 +13,11 @@
     <PackageIcon>my_face_medium.png</PackageIcon>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Product>EasyClientFIX</Product>
-    <Version>1.0.0001</Version>
+    <Version>1.0.1001</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\Desktop\my_face_medium.png">
+    <None Include="..\my_face_medium.png">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>

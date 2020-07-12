@@ -183,10 +183,10 @@
     "C:\\Users\\mppap\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.1",
+    "version": "1.0.1001",
     "restore": {
       "projectUniqueName": "C:\\Users\\mppap\\source\\repos\\EasyClientFIX\\EasyClientFIXlib\\EasyClientFIXlib.csproj",
-      "projectName": "EasyClientFIXlib_MikePapinski",
+      "projectName": "EasyClientFIX",
       "projectPath": "C:\\Users\\mppap\\source\\repos\\EasyClientFIX\\EasyClientFIXlib\\EasyClientFIXlib.csproj",
       "packagesPath": "C:\\Users\\mppap\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mppap\\source\\repos\\EasyClientFIX\\EasyClientFIXlib\\obj\\",
